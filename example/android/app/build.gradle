@@ -6,8 +6,8 @@ plugins {
 
 android {
     namespace = "com.regula.documentreader.api.androidtest"
-    compileSdk = 36
-    ndkVersion = "27.0.12077973"
+    compileSdk 36
+    ndkVersion '26.1.10909125'
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
@@ -16,8 +16,8 @@ android {
 
     defaultConfig {
         applicationId = "com.regula.documentreader.api.androidtest"
-        minSdk = 26
-        targetSdk = 36
+        minSdk 26
+        targetSdk 36
         versionCode = flutter.versionCode
         versionName = flutter.versionName
     }
