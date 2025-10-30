@@ -1,0 +1,1 @@
+/Users/macbookprom1/Downloads/flutter_face_api-master/example/build/app/intermediates/cxx/Debug/1y1c5a30/obj/x86

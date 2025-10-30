@@ -1,0 +1,29 @@
+name: flutter_face_api_example
+description: Demonstrates how to use the flutter_face_api plugin.
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+  flutter: '>=3.10.0'
+
+dependencies:
+  path_provider: ^2.1.5
+  image_picker: ^1.1.2
+  flutter:
+    sdk: flutter
+  flutter_face_api:
+    path: ../
+  flutter_face_core_basic: 7.2.235
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lints: ^5.0.0
+
+flutter:
+  assets:
+    - assets/
+    - assets/images/
+  uses-material-design: true

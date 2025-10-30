@@ -1,0 +1,2 @@
+/Users/macbookprom1/Downloads/flutter_face_api-master/example/android/app/.cxx/Debug/1y1c5a30/x86_64/CMakeFiles/edit_cache.dir
+/Users/macbookprom1/Downloads/flutter_face_api-master/example/android/app/.cxx/Debug/1y1c5a30/x86_64/CMakeFiles/rebuild_cache.dir
